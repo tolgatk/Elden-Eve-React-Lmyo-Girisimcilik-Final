@@ -1,0 +1,40 @@
+[
+    {
+        "name":"Atatürk Mahallesi",
+        "description":"Atatürk Mahallesi Teslim Yemekler"
+    },
+    {
+        "name":"8 Kasım Mahallesi",
+        "description":"8 Kasım Mahallesi Teslim Yemekler"
+    },
+    {
+        "name":"Kurtuluş Mahallesi",
+        "description":"Kurtuluş Mahallesi Teslim Yemekler"
+    },
+    {
+        "name":"Yıldız Mahallesi",
+        "description":"Yıldız Mahallesi Teslim Yemekler"
+    },
+    {
+        "name":"Kocasinan Mahallesi",
+        "description":"Kocasinan Mahallesi Teslim Yemekler"
+    }
+    ,
+    {
+        "name":"Gençlik Mahallesi",
+        "description":"Gençlik Mahallesi Teslim Yemekler"
+    }
+    ,
+    {
+        "name":"Gündoğu Mahallesi",
+        "description":"Gündoğu Mahallesi Teslim Yemekler"
+    }
+    ,
+    {
+        "name":"İnönü Mahallesi",
+        "description":"İnönü Mahallesi Teslim Yemekler"
+    }
+]
+
+
+

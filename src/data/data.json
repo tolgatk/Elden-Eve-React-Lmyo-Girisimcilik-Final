@@ -1,0 +1,144 @@
+[
+    {
+        "images": [
+            "https://www.lezzetmanti.com/wp-content/uploads/2020/10/kayseri-mantisi.jpg"
+            
+        ],
+        "name": "Ev yapımı mantı",
+        "user":"Eda ",
+        "price": 80,
+        "description": "Edanın mutfağından mantı",
+        "category": "Yıldız Mahallesi"
+    },
+    {
+        "images": [
+            "https://i.ytimg.com/vi/ZaG-srfSP80/maxresdefault.jpg"
+            
+        ],
+        "name": "Daha önce yemediğin kadar güzel içli köfte",
+        "user":"Şule",
+        "price": 120,
+        "description": "Şulenin mutfağının tadını çıkart",
+        "category": "Atatürk Mahallesi"
+    },
+    {
+        "images": [
+         
+            "https://media.istockphoto.com/id/1361075522/tr/foto%C4%9Fraf/turkish-foods-turkish-pizza-lahmacun.jpg?s=612x612&w=0&k=20&c=YyK15DqOf2TlP_STM9DLIZQw3v6ZkaiK9W04GpsJPts="
+        ],
+        "name": "Lahmacunu birde benden dene",
+        "user":"Buse",
+        "price": 50,
+        "description": "Sevgimi kattım",
+        "category": "8 Kasım Mahallesi"
+    },
+    {
+        "images": [
+       
+            "https://cdn.yemek.com/mnresize/1250/833/uploads/2022/03/suzme-mercimek-corbasi-one-cikan.jpg"
+        ],
+        "name": "Soslu Mercimek corbası",
+        "user":"Ayse",
+        "price": 60,
+        "description": "Soslu mercimek corbası severmisin?",
+        "category": "Kurtuluş Mahallesi"
+    },
+    {
+        "images": [
+       
+            "https://osmancikhabercomtr.teimg.com/crop/1280x720/osmancikhaber-com-tr/uploads/2023/08/sekerpare.jpg",
+            "https://mahkemefirini.com/wp-content/uploads/2020/04/18767695_714005455451418_3329404830033895531_n.jpg"
+        ],
+        "name": "Şekerpare",
+        "user":"Ayse",
+        "price": 50,
+        "description": "Şekerparelerimin tadına bakmak istemezmisin??",
+        "category": "Kocasinan Mahallesi"
+    },
+    {
+        "images": [
+       
+            "https://3.bp.blogspot.com/-iGbqoRDpbDo/VY6dY-WQ3rI/AAAAAAAANeM/KNrWl7RyZHM/s1600/meyvel%25C4%25B1%2Bpud%25C4%25B1ng.jpg"
+        ],
+        "name": "Puding",
+        "user":"Şule",
+        "price": 80,
+        "description": "Pudinglerim ağzınızın tadına layık.",
+        "category": "Gençlik Mahallesi"
+    },
+    {
+        "images": [
+       
+            "https://cdn.yemek.com/mnresize/940/940/uploads/2015/05/bulgur-pilavi-yemekcom.jpg"
+            
+        ],
+        "name": "Bulgur Pilav",
+        "user":"Handan",
+        "price": 90,
+        "description": "Yediğin en güzel bulgur pilav oluck",
+        "category": "İnönü Mahallesi"
+    }  ,
+    {
+        "images": [
+       
+            "https://iasbh.tmgrup.com.tr/e95ba7/821/464/13/0/712/395?u=https://isbh.tmgrup.com.tr/sbh/2021/09/14/cig-kofte-tarifi-evde-cig-kofte-nasil-yapilir-1631602235113.jpg"
+            
+        ],
+        "name": "Ev Yapımı çiğ köfte",
+        "user":"Urfalı Esma",
+        "price": 50,
+        "description": "Tam kıvamında ev yapımı çiğ köfte",
+        "category": "Yıldız Mahallesi"
+    }   ,
+    {
+        "images": [
+       
+            "https://www.ozgunkokorec.com/wp-content/uploads/2021/02/ozgun-kokorec-pismis-dilimli-kokorec-manset-1024x480.png"
+            
+        ],
+        "name": "Ev Kokulu Kokoreç",
+        "user":"Fadime",
+        "price": 80,
+        "description": "Tertemiz bir kokoreç sizlerle.",
+        "category": "Yıldız Mahallesi"
+    }   ,
+    {
+        "images": [
+       
+            "https://cdn.yemek.com/mnresize/1250/833/uploads/2017/08/firinda-biber-dolmasi-onecikan-yeni.jpg",
+            "https://www.tarifinisevdim.com/uploads/recipe-photos/1920x1280/biber-dolmasi-003e8e.Jpeg"
+            
+        ],
+        "name": "Birde Biber Dolmalarımı Tadın",
+        "user":"Ahunun Mutfağı",
+        "price": 90,
+        "description": "Sizler İçin Dolmalarıma Sevgi Katıyorum.",
+        "category": "Atatürk Mahallesi"
+    } ,
+    {
+        "images": [
+       
+            "https://d1mm3tuyihn37h.cloudfront.net/wp-content/uploads/Ev-yapimi-cilek-receli.jpg"
+           
+            
+        ],
+        "name": "El Yapımı Recel",
+        "user":"Ahunun Mutfağı",
+        "price": 60,
+        "description": "Kavanoz kavanoz recel kapış kapış",
+        "category": "Atatürk Mahallesi"
+    } ,
+    {
+        "images": [
+       
+            "https://cdn.yemek.com/mnresize/1250/833/uploads/2023/10/yumusak-pogaca-yemekcom.jpg"
+           
+            
+        ],
+        "name": "Yumuşak Poğaça",
+        "user":"Ahunun Mutfağı",
+        "price": 50,
+        "description": "Yumuşacık",
+        "category": "Atatürk Mahallesi"
+    } 
+]
